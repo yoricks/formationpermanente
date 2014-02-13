@@ -46,48 +46,49 @@
 							<li class="dropdown active">
 								<a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="glyphicon glyphicon-th-list"></i> Formations<strong class="caret"></strong></a>
 									<ul class="dropdown-menu">
-										<li><a href="./formations.php">Consulter</a></li>
-										<li><a href="./creerFormation.php">Créer</a></li>
+										<li><a href="./formations.php">Consulter Les Formations</a></li>
+										<li><a href="./creerFormation.php">Encoder Une Formation</a></li>
 									</ul>
 							</li>
-							<!-- INSTITUTIONS -->
+							<!-- CLIENTS -->
 							<li class="dropdown">
-								<a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="glyphicon glyphicon glyphicon-home"></i> Institutions<strong class="caret"></strong></a>
+								<a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="glyphicon glyphicon glyphicon-home"></i> Clients<strong class="caret"></strong></a>
 									<ul class="dropdown-menu">
-										<li><a href="./institutions.php">Consulter</a></li>
-										<li><a href="./creerInstitution.php">Créer</a></li>
+										<li><a href="./institutions.php">Consulter Les Clients</a></li>
+										<li><a href="./creerInstitution.php">Encoder Un Client</a></li>
 									</ul>
 							</li>
 							<!-- UTILISATEURS -->
 							<li class="dropdown">
 								<a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="glyphicon glyphicon-user"></i> Utilisateurs<strong class="caret"></strong></a>
 									<ul class="dropdown-menu">
-										<li><a href="./formateurs.php">Consulter</a></li>
-										<li><a href="./creerFormateur">Créer</a></li>
+										<li><a href="./formateurs.php">Consulter Les Utilisateurs</a></li>
+										<li><a href="./creerFormateur">Encoder Un Utilisateur</a></li>
 									</ul>
 							</li>
 							<!-- FACTURES -->
 							<li class="dropdown">
 								<a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="glyphicon glyphicon-euro"></i><i class="glyphicon glyphicon-arrow-down"></i> Factures<strong class="caret"></strong></a>
 									<ul class="dropdown-menu">
-										<li><a href="./factures.php">Consulter</a></li>
-										<li><a href="./creerFacture">Créer</a></li>
+										<li><a href="./factures.php">Consulter Les Factures</a></li>
+										<li><a href="./creerFacture">Encoder Une Facture</a></li>
+										<li><a href="./creerFacture">Encoder Un Paiement</a></li>
 									</ul>
 							</li>
 							<!-- RETRIBUTIONS -->
 							<li class="dropdown">
 								<a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="glyphicon glyphicon-euro"></i><i class="glyphicon glyphicon-arrow-up"></i> Retributions<strong class="caret"></strong></a>
 									<ul class="dropdown-menu">
-										<li><a href="./retributions.php">Consulter</a></li>
-										<li><a href="./creerRetribution">Créer</a></li>
+										<li><a href="./retributions.php">Consulter Les Retributions</a></li>
+										<li><a href="./creerRetribution">Encoder Une Rétribution</a></li>
 									</ul>
 							</li>
 							<!-- TARIFS -->
 							<li class="dropdown">
 								<a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="glyphicon glyphicon-credit-card"></i> Tarifs<strong class="caret"></strong></a>
 									<ul class="dropdown-menu">
-										<li><a href="./tarifs.php">Consulter</a></li>
-										<li><a href="./creerTarif">Créer</a></li>
+										<li><a href="./tarifs.php">Consulter Les Tarifs</a></li>
+										<li><a href="./creerTarif">Encoder Un Tarif</a></li>
 									</ul>
 							</li>
 							</ul>
@@ -97,8 +98,8 @@
 								<li class="dropdown">
 									<a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="glyphicon glyphicon-envelope"></i> Messagerie<strong class="caret"></strong></a>
 										<ul class="dropdown-menu">
-											<li><a href="./nouveauMessage.php">Nouveau Message</a></li>
 											<li><a href="./boiteDeReception.php">Boite De Réception</a></li>
+											<li><a href="./nouveauMessage.php">Nouveau Message</a></li>
 										</ul>
 								</li>
 								<!-- UTILISATEUR -->
